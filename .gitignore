@@ -1,6 +1,7 @@
 *.sw*
 *.o
 *.so
+.chug
 examples/data
 build-mage
 mage/examples
