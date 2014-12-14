@@ -1,0 +1,58 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.pd_linux
+*.pd_darwin
+
+
+# Compiled Executable (Windows)
+*.exe
+
+# editors temporary files
+*.swp
+*~
+\#
+
+#ignore doc
+[dD]ocumentation
+doc
+doc/html
+doc/latex
+html
+latex
+*.png
+*.wav
+*.raw
+
+# build directory (build, builds, Build, Builds, ...)
+[bB]uild*
+bin
+
+# netbeans projects garbage
+nbproject
+nbbuild
+
+#OSX specific garbage
+.DS_Store
+*.perspectivev3
+
+# xcode projects garbage
+*.xcconfig
+*.mode1v3
+*.pbxuser
+*.plist
+*.pbxproj
+*.xcworkspace
+xcuserdata
+
+# merge tools garbage
+*.orig
+
+# data folder at root
+data
+ofAccents
+
+.gitignore.*
+
+xcshareddata
